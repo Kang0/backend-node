@@ -1,0 +1,19 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "description": "node server for react app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Kang0/backend-node.git"
+  },
+  "author": "kevin kang",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Kang0/backend-node/issues"
+  },
+  "homepage": "https://github.com/Kang0/backend-node#readme"
+}
